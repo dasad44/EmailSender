@@ -1,1 +1,1 @@
-# nauka2
+# C# code in order to send the mail
