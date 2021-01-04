@@ -1,3 +1,2 @@
-# Simple E-mail sender using C# .NET
+# Simple E-mail sender using C#
 
-> .NET 4.7.2
